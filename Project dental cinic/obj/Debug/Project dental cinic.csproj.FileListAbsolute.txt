@@ -1,0 +1,28 @@
+E:\visual tryy\Project dental cinic\Project dental cinic\bin\Debug\Project dental cinic.exe.config
+E:\visual tryy\Project dental cinic\Project dental cinic\bin\Debug\Project dental cinic.exe
+E:\visual tryy\Project dental cinic\Project dental cinic\bin\Debug\Project dental cinic.pdb
+E:\visual tryy\Project dental cinic\Project dental cinic\obj\Debug\Project dental cinic.csproj.AssemblyReference.cache
+E:\visual tryy\Project dental cinic\Project dental cinic\obj\Debug\Project dental cinic.csproj.SuggestedBindingRedirects.cache
+E:\visual tryy\Project dental cinic\Project dental cinic\obj\Debug\Project_dental_cinic.Form1.resources
+E:\visual tryy\Project dental cinic\Project dental cinic\obj\Debug\Project_dental_cinic.Properties.Resources.resources
+E:\visual tryy\Project dental cinic\Project dental cinic\obj\Debug\Project dental cinic.csproj.GenerateResource.cache
+E:\visual tryy\Project dental cinic\Project dental cinic\obj\Debug\Project dental cinic.csproj.CoreCompileInputs.cache
+E:\visual tryy\Project dental cinic\Project dental cinic\obj\Debug\Project dental cinic.exe
+E:\visual tryy\Project dental cinic\Project dental cinic\obj\Debug\Project dental cinic.pdb
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project dental cinic.csproj.AssemblyReference.cache
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project dental cinic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project_dental_cinic.Appointment.resources
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project_dental_cinic.Login.resources
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project_dental_cinic.patient.resources
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project_dental_cinic.Prescription.resources
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project_dental_cinic.splash.resources
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project_dental_cinic.Properties.Resources.resources
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project_dental_cinic.Treatment.resources
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project_dental_cinic.User.resources
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project dental cinic.csproj.GenerateResource.cache
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project dental cinic.csproj.CoreCompileInputs.cache
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project dental cinic.exe
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\obj\Debug\Project dental cinic.pdb
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\bin\Debug\Project dental cinic.exe.config
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\bin\Debug\Project dental cinic.exe
+C:\Users\Mona\Downloads\project-main\project-main\Project dental cinic\bin\Debug\Project dental cinic.pdb
